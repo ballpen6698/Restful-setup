@@ -1,5 +1,5 @@
 Backend server Tomcat 7 : here is link to get server https://tomcat.apache.org/download-70.cgi
-
+updated for test
 how to build and run backend
  1. clean the project, and do maven clean install to get all required lib
  2. configure project -> deployment assembly -> add java build entries -> add maven lib to project
